@@ -1,0 +1,11 @@
+==== Customer Account Information ====
+Customer Name: Jamm Lee
+Customer Address: 123 Hollywood St., NM
+Customer Phone Number: 8321234567
+Vehicle: Honda Pilot Black Edition Sonic Gray Pearl 2025
+Services:
+ - Service: Windshield wiper change: | Cost: $50
+ - Service: Oil Change | Cost: $75
+ - Service: Tire Rotation | Cost: $60
+Total Amount: $185
+=======================================
